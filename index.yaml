@@ -3,7 +3,18 @@ entries:
   argodemo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.732056+05:30"
+    created: "2025-06-11T13:33:16.693616+05:30"
+    description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
+      by Ashwin K M
+    digest: 14aeedb97845e89fbfa9f2a3cb90e83f96565ea79e8a86a30770b6270542b328
+    name: argodemo
+    type: application
+    urls:
+    - argodemo-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-11T13:33:16.693299+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: a2227ee51cf1b1637a1d206c26beeaca88157f551723ee46f7dd1c75c36caca3
@@ -14,7 +25,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.731754+05:30"
+    created: "2025-06-11T13:33:16.69292+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: 05a7e66f8388d68d93a55ab3d5f656ecedff4935f4d7df55ea522c60d0128adc
@@ -25,7 +36,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.73147+05:30"
+    created: "2025-06-11T13:33:16.692506+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: a099df5eb226d3cd3d7fdfb99aa0f9d0c188d3925733f507c63b834ca2f5a681
@@ -36,7 +47,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.731062+05:30"
+    created: "2025-06-11T13:33:16.692084+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: 871493be55414094fc4c6474501860f88718acebc9851a8defd6e70fdbcf10f9
@@ -47,7 +58,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.730676+05:30"
+    created: "2025-06-11T13:33:16.691654+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: c8327479e228ae7073a1a4787b6e8ffe3ffbbd1b8992e043ce86b87ad2551ffe
@@ -58,7 +69,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.73021+05:30"
+    created: "2025-06-11T13:33:16.691149+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: 97e16d9e84286919c6d56005c4d04dea2ddb17c269d475ba494b4ae23b3fd127
@@ -69,7 +80,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.729696+05:30"
+    created: "2025-06-11T13:33:16.690686+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: bdd4bfb3d8e89056ff9626796371c8b6fbd22d0d98b601c05fce536f61bc4c87
@@ -80,7 +91,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-11T00:23:57.72913+05:30"
+    created: "2025-06-11T13:33:16.690124+05:30"
     description: A Helm chart for Kubernetes to demo BlueGreen and Canary Rollouts
       by Ashwin K M
     digest: c21a3c9aeb66cafbd807af99da7b1648a877ccd665744058099b49b58e70c2ce
@@ -92,7 +103,7 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.27.0
-    created: "2025-06-11T00:23:57.732427+05:30"
+    created: "2025-06-11T13:33:16.694034+05:30"
     description: A Helm chart for Kubernetes
     digest: 596880f069927854c362792252b58e62e57f7fd0afd4129bd501288e0eff25b5
     name: nginx
@@ -100,4 +111,4 @@ entries:
     urls:
     - nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-11T00:23:57.727892+05:30"
+generated: "2025-06-11T13:33:16.688898+05:30"
